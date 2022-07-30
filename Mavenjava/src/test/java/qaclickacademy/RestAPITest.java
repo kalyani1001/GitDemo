@@ -7,6 +7,8 @@ public class RestAPITest {
 	public void nativeApps()
 	{
 		System.out.println("NativeApps");
+		System.out.println("NativeApps git repository");
+		System.out.println("NativeApps git repository");
 	}
 
 	@Test
